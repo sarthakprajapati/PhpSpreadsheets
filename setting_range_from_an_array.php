@@ -20,6 +20,8 @@ $dataSet = [
     ['JKL',   30,   32,   85],
 ];
 
+// Retrieve the current active worksheet
+
 $spreadsheet->getActiveSheet()
     ->fromArray(
         $dataSet,  // The data to set
