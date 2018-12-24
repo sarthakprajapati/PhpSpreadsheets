@@ -4,3 +4,6 @@ PHPSpreadsheet <br>
 2.<a href='https://www.geeksforgeeks.org/php-spreadsheet_excel_writer-addformat-function/'>Add Format</a>
 <br>
 3.<a href='https://www.geeksforgeeks.org/php-spreadsheet_excel_writer-close-function/'>Close Spreadsheet</a>
+<br>
+4.<a href='https://www.geeksforgeeks.org/php-spreadsheet_excel_writer-setvalign-function/'>Set Vertical Align</a>
+<br>
